@@ -71,6 +71,6 @@ Comparé à la version originale, ce code inclut :
 
 ## 👨‍💻 Auteur
 
-**Walid Bouknia**
+**Walid Bouknia - Etudiant INSA Lyon**
 
 **Bon jeu ! 🎮**
